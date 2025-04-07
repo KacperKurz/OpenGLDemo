@@ -1,5 +1,9 @@
 ﻿# OpenGL Project  
 Demo of a graphics engine written in C#  
+![picture](pictures/1.png)
+![picture](pictures/2.png)
+![picture](pictures/3.png)
+![picture](pictures/4.png)
 
 Since the scene files weigh over 1GB, I am not including them in the repository but instead providing a link to the source and import instructions.  
 
@@ -27,7 +31,7 @@ Since the scene files weigh over 1GB, I am not including them in the repository 
 * Download the [scene](https://developer.nvidia.com/orca/amazon-lumberyard-bistro)  
 * Import the scene into Blender  
 * Export the scene to a `"bistro.obj"` file with the correct settings and place it in the `"models"` directory  
-* ![settings](settings.png)  
+* ![settings](pictures/settings.png)
 * Convert each `.dds` file to a `.png` file with the same name and place them in the `"Textures"` directory (I recommend using [ImageMagick](https://imagemagick.org/index.php))  
 * Run the project  
 
